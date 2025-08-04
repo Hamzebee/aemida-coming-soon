@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://aemida.com/sitemap.xml
